@@ -1,0 +1,394 @@
+﻿<KCLFlags>
+  <Main_0x1>
+    <Name>Road 1</Name>
+    <Name>Road 2</Name>
+    <Name>Road 3</Name>
+    <Name>Road 4</Name>
+    <Name>Slippery Road 1</Name>
+    <Name>Off-road</Name>
+    <Name>Heavy Off-road</Name>
+    <Name>Slippery Road 2</Name>
+    <Name>Boost Pad</Name>
+    <Name>Glider Pad</Name>
+    <Name>Does nothing 1</Name>
+    <Name>Solid Fall</Name>
+    <Name>Moving Terrain</Name>
+    <Name>Road 5</Name>
+    <Name>Unknown [!]Crashes the game[!]</Name>
+    <Name>Does nothing 2</Name>
+    <Name>Wall 1</Name>
+    <Name>Wall 2</Name>
+    <Name>Invisible Wall</Name>
+    <Name>Does nothing 3</Name>
+    <Name>Wall 3</Name>
+    <Name>Wall 4</Name>
+    <Name>Does nothing 4</Name>
+    <Name>Does nothing 5</Name>
+    <Name>Does nothing 6</Name>
+    <Name>Fall Boundary 1</Name>
+    <Name>Effect Trigger 1</Name>
+    <Name>Sound Effect</Name>
+    <Name>Glider Activator</Name>
+    <Name>Fall Boundary 2</Name>
+    <Name>Does nothing 8</Name>
+    <Name>Effect Trigger 2</Name>
+  </Main_0x1>
+  <Sub_0x2>
+    <f_0x00>
+      <Name>Normal</Name>
+      <Name>Sand/Gravel</Name>
+      <Name>Sand/Gravel</Name>
+      <Name>Smooth</Name>
+      <Name>Wood</Name>
+      <Name>Slot Based</Name>
+      <Name>Metal Grid</Name>
+      <Name>Metal</Name>
+    </f_0x00>
+    <f_0x01>
+      <Name>Normal(Different Sound to 0x00)</Name>
+      <Name>Carpet</Name>
+      <Name>Slot Based</Name>
+      <Name>Bouncy Road(Like a mushroom but non-trickable)</Name>
+      <Name>Grass/Gravel</Name>
+      <Name>Grass</Name>
+      <Name>Normal(Bump effect)</Name>
+      <Name>Slot Based(Rainbow Road sounds on RR and rRR slots)</Name>
+    </f_0x01>
+    <f_0x02>
+      <Name>Normal</Name>
+      <Name>Slot Based(Piano sounds on MP)</Name>
+      <Name>Slot Based(Xylophone sounds on MP)</Name>
+      <Name>Slot Based(Glockenspiel sounds on MP)</Name>
+      <Name>Smooth(Bump effect)</Name>
+      <Name>Slot Based</Name>
+      <Name>Metal Grid</Name>
+      <Name>Slot Based</Name>
+    </f_0x02>
+    <f_0x03>
+      <Name>Dirt(Graphic Effect)</Name>
+      <Name>Sand/Gravel</Name>
+      <Name>Slot Based</Name>
+      <Name>Slot Based</Name>
+      <Name>Slot Based</Name>
+      <Name>Snow</Name>
+      <Name>Dirt</Name>
+      <Name>Sand/Gravel</Name>
+    </f_0x03>
+    <f_0x04>
+      <Name>Dirt(Graphic Effect)</Name>
+      <Name>Sand/Gravel</Name>
+      <Name>Carpet</Name>
+      <Name>Water</Name>
+      <Name>Grass</Name>
+      <Name>Wood</Name>
+      <Name>Mud/Tar(Bump effect)</Name>
+      <Name>Dirt</Name>
+    </f_0x04>
+    <f_0x05>
+      <Name>Dirt</Name>
+      <Name>Sand</Name>
+      <Name>Honey</Name>
+      <Name>Water</Name>
+      <Name>Grass</Name>
+      <Name>Snow</Name>
+      <Name>Mud/Tar(Bump effect)</Name>
+      <Name>Wood</Name>
+    </f_0x05>
+    <f_0x06>
+      <Name>Dirt</Name>
+      <Name>Mud/Tar</Name>
+      <Name>Slot Based</Name>
+      <Name>Slot Based</Name>
+      <Name>Grass</Name>
+      <Name>Snow</Name>
+      <Name>Grass</Name>
+      <Name>Mud</Name>
+    </f_0x06>
+    <f_0x07>
+      <Name>Ice</Name>
+      <Name>Mud</Name>
+      <Name>Wet Road</Name>
+      <Name>Water</Name>
+      <Name>Slot Based</Name>
+      <Name>Normal(Different sound to 0x00)</Name>
+      <Name>Normal(Different sound to 0x00)</Name>
+      <Name>Normal(Different sound to 0x00)</Name>
+    </f_0x07>
+    <f_0x08>
+      <Name>Normal</Name>
+      <Name>Sand/Gravel</Name>
+      <Name>Sand/Gravel</Name>
+      <Name>Smooth</Name>
+      <Name>Wood</Name>
+      <Name>Slot Based</Name>
+      <Name>Metal Grid</Name>
+      <Name>Metal</Name>
+    </f_0x08>
+    <f_0x09>
+      <Name>Normal</Name>
+      <Name>Instantly Activates Glider(rMC2 Ramp)</Name>
+      <Name>Sand/Gravel</Name>
+      <Name>Slot Based</Name>
+      <Name>Sand/Gravel</Name>
+      <Name>Sand/Gravel(Used in RR)</Name>
+      <Name>Metal Grid</Name>
+      <Name>Metal</Name>
+    </f_0x09>
+    <f_0x0A>
+      <Name>Unknown(Used in TC)</Name>
+      <Name>Unknown</Name>
+      <Name>Unknown</Name>
+      <Name>Unknown</Name>
+      <Name>Unknown</Name>
+      <Name>Unknown</Name>
+      <Name>Unknown</Name>
+      <Name>Unknown</Name>
+    </f_0x0A>
+    <f_0x0B>
+      <Name>Unknown</Name>
+      <Name>Unknown</Name>
+      <Name>Unknown</Name>
+      <Name>Unknown</Name>
+      <Name>Unknown</Name>
+      <Name>Unknown</Name>
+      <Name>Unknown</Name>
+      <Name>Unknown</Name>
+    </f_0x0B>
+    <f_0x0C>
+      <Name>Water</Name>
+      <Name>Slot Based(RR Conveyor Belt)</Name>
+      <Name>Road(Different sound to 0x00)</Name>
+      <Name>Road(Different sound to 0x00)</Name>
+      <Name>Road(Different sound to 0x00)</Name>
+      <Name>Road(Different sound to 0x00)</Name>
+      <Name>Road(Different sound to 0x00)</Name>
+      <Name>Road(Different sound to 0x00)</Name>
+    </f_0x0C>
+    <f_0x0D>
+      <Name>Slot Based</Name>
+      <Name>Slot Based(Piano sounds(Black key) on MP)</Name>
+      <Name>Slot Based</Name>
+      <Name>Metal</Name>
+      <Name>Slot Based(Xylophone sounds(Black key) on MP)</Name>
+      <Name>Slot Based(Glockenspiel sounds(Black key) on MP)</Name>
+      <Name>Smooth(Lunar Surface(?))[RR]</Name>
+      <Name>Smooth</Name>
+   </f_0x0D>
+   <f_0x0E>
+      <Name>Unknown</Name>
+      <Name>Unknown</Name>
+      <Name>Unknown</Name>
+      <Name>Unknown</Name>
+      <Name>Unknown</Name>
+      <Name>Unknown</Name>
+      <Name>Unknown</Name>
+      <Name>Unknown</Name>
+    </f_0x0E>
+    <f_0x0F>
+      <Name>Unknown</Name>
+      <Name>Unknown</Name>
+      <Name>Unknown</Name>
+      <Name>Unknown</Name>
+      <Name>Unknown</Name>
+      <Name>Unknown</Name>
+      <Name>Unknown</Name>
+      <Name>Unknown</Name>
+    </f_0x0F>
+    <f_0x10>
+      <Name>Normal</Name>
+      <Name>Rock</Name>
+      <Name>Metal</Name>
+      <Name>Wood</Name>
+      <Name>Slot Based</Name>
+      <Name>Slot Based</Name>
+      <Name>Rubber</Name>
+      <Name>Music Wall</Name>
+    </f_0x10>
+    <f_0x11>
+      <Name>Rope</Name>
+      <Name>Grass</Name>
+      <Name>Grass</Name>
+      <Name>Balloon</Name>
+      <Name>Slot Based</Name>
+      <Name>Slot Based</Name>
+      <Name>Slot Based</Name>
+      <Name>Slot Based</Name>
+    </f_0x11>
+    <f_0x12>
+      <Name>Unknown</Name>
+      <Name>Unknown</Name>
+      <Name>Unknown</Name>
+      <Name>Unknown</Name>
+      <Name>Unknown</Name>
+      <Name>Unknown</Name>
+      <Name>Unknown</Name>
+      <Name>Unknown</Name>
+    </f_0x12>
+    <f_0x13>
+      <Name>Unknown</Name>
+      <Name>Unknown</Name>
+      <Name>Unknown</Name>
+      <Name>Unknown</Name>
+      <Name>Unknown</Name>
+      <Name>Unknown</Name>
+      <Name>Unknown</Name>
+      <Name>Unknown</Name>
+    </f_0x13>
+    <f_0x14>
+      <Name>Normal</Name>
+      <Name>Rock</Name>
+      <Name>Metal</Name>
+      <Name>Wood</Name>
+      <Name>Slot Based</Name>
+      <Name>Glass</Name>
+      <Name>Rubber</Name>
+      <Name>Music Wall(no effects)</Name>
+    </f_0x14>
+    <f_0x15>
+      <Name>Normal</Name>
+      <Name>Rock</Name>
+      <Name>Metal</Name>
+      <Name>Wood</Name>
+      <Name>Slot Based</Name>
+      <Name>Glass</Name>
+      <Name>Rubber</Name>
+      <Name>Music Wall(no effects)</Name>
+    </f_0x15>
+    <f_0x16>
+      <Name>Unknown</Name>
+      <Name>Unknown</Name>
+      <Name>Unknown</Name>
+      <Name>Unknown</Name>
+      <Name>Unknown</Name>
+      <Name>Unknown</Name>
+      <Name>Unknown</Name>
+      <Name>Unknown</Name>
+    </f_0x16>
+    <f_0x17>
+      <Name>Unknown</Name>
+      <Name>Unknown</Name>
+      <Name>Unknown</Name>
+      <Name>Unknown</Name>
+      <Name>Unknown</Name>
+      <Name>Unknown</Name>
+      <Name>Unknown</Name>
+      <Name>Unknown</Name>
+    </f_0x17>
+    <f_0x18>
+      <Name>Unknown</Name>
+      <Name>Unknown</Name>
+      <Name>Unknown</Name>
+      <Name>Unknown</Name>
+      <Name>Unknown</Name>
+      <Name>Unknown</Name>
+      <Name>Unknown</Name>
+      <Name>Unknown</Name>
+    </f_0x18>
+    <f_0x19>
+      <Name>Air Fall</Name>
+      <Name>Water</Name>
+      <Name>Lava</Name>
+      <Name>Lava(no splash)</Name>
+      <Name>Air Fall</Name>
+      <Name>Unknown</Name>
+      <Name>Air Fall</Name>
+      <Name>Air Fall</Name>
+    </f_0x19>
+    <f_0x1A>
+      <Name>Unknown</Name>
+      <Name>Smoke/Fog</Name>
+      <Name>Tree leaves</Name>
+      <Name>Unknown</Name>
+      <Name>Unknown</Name>
+      <Name>Unknown</Name>
+      <Name>Unknown</Name>
+      <Name>Unknown</Name>
+    </f_0x1A>
+    <f_0x1B>
+      <Name>Sound by the slot[rWP]</Name>
+      <Name>?[rWP]</Name>
+      <Name>Unknown</Name>
+      <Name>Unknown</Name>
+      <Name>Pipe 1</Name>
+      <Name>Pipe 2</Name>
+      <Name>Unknown</Name>
+      <Name>Unknown</Name>
+    </f_0x1B>
+    <f_0x1C>
+      <Name>Unknown</Name>
+      <Name>Unknown</Name>
+      <Name>?[rMT]</Name>
+      <Name>Unknown</Name>
+      <Name>Unknown</Name>
+      <Name>Unknown</Name>
+      <Name>Unknown</Name>
+      <Name>Unknown</Name>
+    </f_0x1C>
+    <f_0x1D>
+      <Name>Air Fall</Name>
+      <Name>Water</Name>
+      <Name>Lava</Name>
+      <Name>Lava(no splash)</Name>
+      <Name>Air Fall</Name>
+      <Name>Unknown</Name>
+      <Name>Air Fall</Name>
+      <Name>Air Fall</Name>
+    </f_0x1D>
+    <f_0x1E>
+      <Name>Unknown</Name>
+      <Name>Unknown</Name>
+      <Name>Unknown</Name>
+      <Name>Unknown</Name>
+      <Name>Unknown</Name>
+      <Name>Unknown</Name>
+      <Name>Unknown</Name>
+      <Name>Unknown</Name>
+    </f_0x1E>
+    <f_0x1F>
+      <Name>Unknown(?)</Name>
+      <Name>Flowerbed</Name>
+      <Name>Glider Activator(?)</Name>
+      <Name>Unknown</Name>
+      <Name>Unknown</Name>
+      <Name>Unknown</Name>
+      <Name>?[RR]</Name>
+      <Name>Unknown</Name>
+    </f_0x1F>
+  </Sub_0x2>
+  <Shadow_0x3>
+    <num>0(None)</num>
+    <num>1</num>
+    <num>2</num>
+    <num>3</num>
+    <num>4</num>
+    <num>5</num>
+    <num>6</num>
+    <num>7</num>
+    <num>8</num>
+    <num>9</num>
+    <num>A</num>
+    <num>B</num>
+    <num>C</num>
+    <num>D</num>
+    <num>E</num>
+    <num>F</num>
+  </Shadow_0x3>
+  <SP_0x4>
+    <num>0 - Nothing</num>
+    <num>1 - Trickable</num>
+    <num>2 - Pushes you back</num>
+    <num>3 - Pushes you back and Trickable</num>
+    <num>4 - Sticky</num>
+    <num>5 - Sticky and Trickable</num>
+    <num>6 - Nothing(Cannon Activator if used with 0x09 or 0x1C?)</num>
+    <num>7 - Trickable(Cannon Activator if used with 0x09 or 0x1C?)</num>
+    <num>8 - Nothing(Cannon Activator if used with 0x09 or 0x1C?)</num>
+    <num>9 - Trickable(Cannon Activator if used with 0x09 or 0x1C?)</num>
+    <num>A - Nothing(Cannon Activator if used with 0x09 or 0x1C?)</num>
+    <num>B - Trickable(Cannon Activator if used with 0x09 or 0x1C?)</num>
+    <num>C - Nothing(Cannon Activator if used with 0x09 or 0x1C?)</num>
+    <num>D - Trickable(Cannon Activator if used with 0x09 or 0x1C?)</num>
+    <num>E - Nothing(Cannon Activator if used with 0x09 or 0x1C?)</num>
+    <num>F - Trickable(Cannon Activator if used with 0x09 or 0x1C?)</num>
+  </SP_0x4>
+</KCLFlags>
