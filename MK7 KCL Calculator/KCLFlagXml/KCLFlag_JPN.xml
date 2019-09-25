@@ -4,359 +4,359 @@
     <Name>道 2</Name>
     <Name>道 3</Name>
     <Name>道 4</Name>
-    <Name>Slippery Road 1</Name>
-    <Name>Off-road</Name>
-    <Name>Heavy Off-road</Name>
-    <Name>Slippery Road 2</Name>
-    <Name>Boost Pad</Name>
-    <Name>Glider Pad</Name>
-    <Name>Does nothing 1</Name>
-    <Name>Solid Fall</Name>
-    <Name>Moving Terrain</Name>
+    <Name>滑りやすい道 1</Name>
+    <Name>オフロード</Name>
+    <Name>オフロード(非常に遅い)</Name>
+    <Name>滑りやすい道 2</Name>
+    <Name>ダッシュボード</Name>
+    <Name>グライダーボード</Name>
+    <Name>何もしない 1</Name>
+    <Name>固体型落下判定</Name>
+    <Name>動く道</Name>
     <Name>道 5</Name>
-    <Name>不明 [!]Crashes the game[!]</Name>
-    <Name>Does nothing 2</Name>
+    <Name>不明 [!]ゲームがクラッシュします[!]</Name>
+    <Name>何もしない 2</Name>
     <Name>壁 1</Name>
     <Name>壁 2</Name>
-    <Name>Invisible Wall</Name>
-    <Name>Does nothing 3</Name>
+    <Name>目に見えない壁</Name>
+    <Name>何もしない 3</Name>
     <Name>壁 3</Name>
     <Name>壁 4</Name>
-    <Name>Does nothing 4</Name>
-    <Name>Does nothing 5</Name>
-    <Name>Does nothing 6</Name>
-    <Name>Fall Boundary 1</Name>
-    <Name>Effect Trigger 1</Name>
-    <Name>Sound Effect</Name>
-    <Name>Glider Activator</Name>
-    <Name>Fall Boundary 2</Name>
-    <Name>Does nothing 8</Name>
-    <Name>Effect Trigger 2</Name>
+    <Name>何もしない 4</Name>
+    <Name>何もしない 5</Name>
+    <Name>何もしない 6</Name>
+    <Name>落下判定 1</Name>
+    <Name>エフェクトトリガー 1</Name>
+    <Name>サウンドエフェクト</Name>
+    <Name>グライダーアクティベーター</Name>
+    <Name>落下判定 2</Name>
+    <Name>何もしない 8</Name>
+    <Name>エフェクトトリガー 2</Name>
   </Main_0x1>
   <Sub_0x2>
     <f_0x00>
-      <Name>Normal</Name>
-      <Name>Sand/Gravel</Name>
-      <Name>Sand/Gravel</Name>
-      <Name>Smooth</Name>
-      <Name>Wood</Name>
-      <Name>Slot Based</Name>
-      <Name>Metal Grid</Name>
-      <Name>Metal</Name>
+      <Name>ノーマル</Name>
+      <Name>砂/砂利</Name>
+      <Name>砂/砂利</Name>
+      <Name>平滑</Name>
+      <Name>木</Name>
+      <Name>スロットベース</Name>
+      <Name>金網</Name>
+      <Name>金属</Name>
     </f_0x00>
     <f_0x01>
-      <Name>Normal(Different Sound to 0x00)</Name>
-      <Name>Carpet</Name>
-      <Name>Slot Based</Name>
-      <Name>Bouncy Road(Like a mushroom but non-trickable)</Name>
-      <Name>Grass/Gravel</Name>
-      <Name>Grass</Name>
-      <Name>Normal(Bump effect)</Name>
-      <Name>Slot Based(Rainbow Road sounds on RR and rRR slots)</Name>
+      <Name>ノーマル(0x00とは異なるサウンド)</Name>
+      <Name>カーペット</Name>
+      <Name>スロットベース</Name>
+      <Name>弾む道(キノコのようなものですが、トリッキーなものではありません)</Name>
+      <Name>草/砂利</Name>
+      <Name>草</Name>
+      <Name>ノーマル(バンプエフェクト)</Name>
+      <Name>スロットベース(レインボーロードの音は、RRおよびrRRスロットが鳴ります)</Name>
     </f_0x01>
     <f_0x02>
-      <Name>Normal</Name>
-      <Name>Slot Based(Piano sounds on MP)</Name>
-      <Name>Slot Based(Xylophone sounds on MP)</Name>
-      <Name>Slot Based(Glockenspiel sounds on MP)</Name>
-      <Name>Smooth(Bump effect)</Name>
-      <Name>Slot Based</Name>
-      <Name>Metal Grid</Name>
-      <Name>Slot Based</Name>
+      <Name>ノーマル</Name>
+      <Name>スロットベース(ピアノの音[MP])</Name>
+      <Name>スロットベース(木琴の音[MP])</Name>
+      <Name>スロットベース(グロッケンシュピールの音[MP])</Name>
+      <Name>平滑(バンプエフェクト)</Name>
+      <Name>スロットベース</Name>
+      <Name>金網</Name>
+      <Name>スロットベース</Name>
     </f_0x02>
     <f_0x03>
-      <Name>Dirt(Graphic Effect)</Name>
-      <Name>Sand/Gravel</Name>
-      <Name>Slot Based</Name>
-      <Name>Slot Based</Name>
-      <Name>Slot Based</Name>
-      <Name>Snow</Name>
-      <Name>Dirt</Name>
-      <Name>Sand/Gravel</Name>
+      <Name>ダート(グラフィックエフェクト)</Name>
+      <Name>砂/砂利</Name>
+      <Name>スロットベース</Name>
+      <Name>スロットベース</Name>
+      <Name>スロットベース</Name>
+      <Name>雪</Name>
+      <Name>ダート</Name>
+      <Name>砂/砂利</Name>
     </f_0x03>
     <f_0x04>
-      <Name>Dirt(Graphic Effect)</Name>
-      <Name>Sand/Gravel</Name>
-      <Name>Carpet</Name>
-      <Name>Water</Name>
-      <Name>Grass</Name>
-      <Name>Wood</Name>
-      <Name>Mud/Tar(Bump effect)</Name>
-      <Name>Dirt</Name>
+      <Name>ダート(グラフィックエフェクト)</Name>
+      <Name>砂/砂利</Name>
+      <Name>カーペット</Name>
+      <Name>水</Name>
+      <Name>草</Name>
+      <Name>木</Name>
+      <Name>泥/タール(バンプエフェクト)</Name>
+      <Name>ダート</Name>
     </f_0x04>
     <f_0x05>
-      <Name>Dirt</Name>
-      <Name>Sand</Name>
-      <Name>Honey</Name>
-      <Name>Water</Name>
-      <Name>Grass</Name>
-      <Name>Snow</Name>
-      <Name>Mud/Tar(Bump effect)</Name>
-      <Name>Wood</Name>
+      <Name>ダート</Name>
+      <Name>砂</Name>
+      <Name>蜂蜜</Name>
+      <Name>水</Name>
+      <Name>草</Name>
+      <Name>雪</Name>
+      <Name>泥/タール(バンプエフェクト)</Name>
+      <Name>木</Name>
     </f_0x05>
     <f_0x06>
-      <Name>Dirt</Name>
-      <Name>Mud/Tar</Name>
-      <Name>Slot Based</Name>
-      <Name>Slot Based</Name>
-      <Name>Grass</Name>
-      <Name>Snow</Name>
-      <Name>Grass</Name>
-      <Name>Mud</Name>
+      <Name>ダート</Name>
+      <Name>泥/タール</Name>
+      <Name>スロットベース</Name>
+      <Name>スロットベース</Name>
+      <Name>草</Name>
+      <Name>雪</Name>
+      <Name>草</Name>
+      <Name>泥</Name>
     </f_0x06>
     <f_0x07>
-      <Name>Ice</Name>
-      <Name>Mud</Name>
-      <Name>Wet Road</Name>
-      <Name>Water</Name>
-      <Name>Slot Based</Name>
-      <Name>Normal(Different sound to 0x00)</Name>
-      <Name>Normal(Different sound to 0x00)</Name>
-      <Name>Normal(Different sound to 0x00)</Name>
+      <Name>氷</Name>
+      <Name>泥</Name>
+      <Name>濡れた道</Name>
+      <Name>水</Name>
+      <Name>スロットベース</Name>
+      <Name>ノーマル(0x00とは異なるサウンド)</Name>
+      <Name>ノーマル(0x00とは異なるサウンド)</Name>
+      <Name>ノーマル(0x00とは異なるサウンド)</Name>
     </f_0x07>
     <f_0x08>
-      <Name>Normal</Name>
-      <Name>Sand/Gravel</Name>
-      <Name>Sand/Gravel</Name>
-      <Name>Smooth</Name>
-      <Name>Wood</Name>
-      <Name>Slot Based</Name>
-      <Name>Metal Grid</Name>
-      <Name>Metal</Name>
+      <Name>ノーマル</Name>
+      <Name>砂/砂利</Name>
+      <Name>砂/砂利</Name>
+      <Name>平滑</Name>
+      <Name>木</Name>
+      <Name>スロットベース</Name>
+      <Name>金網</Name>
+      <Name>金属</Name>
     </f_0x08>
     <f_0x09>
-      <Name>Normal</Name>
-      <Name>Instantly Activates Glider(rMC2 Ramp)</Name>
-      <Name>Sand/Gravel</Name>
-      <Name>Slot Based</Name>
-      <Name>Sand/Gravel</Name>
-      <Name>Sand/Gravel(Used in RR)</Name>
-      <Name>Metal Grid</Name>
-      <Name>Metal</Name>
+      <Name>ノーマル</Name>
+      <Name>グライダーを即座に作動させる(rMC2ランプ</Name>
+      <Name>砂/砂利</Name>
+      <Name>スロットベース</Name>
+      <Name>砂/砂利</Name>
+      <Name>砂/砂利(RRで使用されている)</Name>
+      <Name>金網</Name>
+      <Name>金属</Name>
     </f_0x09>
     <f_0x0A>
-      <Name>Unknown(Used in TC)</Name>
-      <Name>Unknown</Name>
-      <Name>Unknown</Name>
-      <Name>Unknown</Name>
-      <Name>Unknown</Name>
-      <Name>Unknown</Name>
-      <Name>Unknown</Name>
-      <Name>Unknown</Name>
+      <Name>不明(TCで使用されている)</Name>
+      <Name>不明</Name>
+      <Name>不明</Name>
+      <Name>不明</Name>
+      <Name>不明</Name>
+      <Name>不明</Name>
+      <Name>不明</Name>
+      <Name>不明</Name>
     </f_0x0A>
     <f_0x0B>
-      <Name>Unknown</Name>
-      <Name>Unknown</Name>
-      <Name>Unknown</Name>
-      <Name>Unknown</Name>
-      <Name>Unknown</Name>
-      <Name>Unknown</Name>
-      <Name>Unknown</Name>
-      <Name>Unknown</Name>
+      <Name>不明</Name>
+      <Name>不明</Name>
+      <Name>不明</Name>
+      <Name>不明</Name>
+      <Name>不明</Name>
+      <Name>不明</Name>
+      <Name>不明</Name>
+      <Name>不明</Name>
     </f_0x0B>
     <f_0x0C>
-      <Name>Water</Name>
-      <Name>Slot Based(RR Conveyor Belt)</Name>
-      <Name>Road(Different sound to 0x00)</Name>
-      <Name>Road(Different sound to 0x00)</Name>
-      <Name>Road(Different sound to 0x00)</Name>
-      <Name>Road(Different sound to 0x00)</Name>
-      <Name>Road(Different sound to 0x00)</Name>
-      <Name>Road(Different sound to 0x00)</Name>
+      <Name>水</Name>
+      <Name>スロットベース(RRベルトコンベア)</Name>
+      <Name>ノーマル(0x00とは異なるサウンド)</Name>
+      <Name>ノーマル(0x00とは異なるサウンド)</Name>
+      <Name>ノーマル(0x00とは異なるサウンド)</Name>
+      <Name>ノーマル(0x00とは異なるサウンド)</Name>
+      <Name>ノーマル(0x00とは異なるサウンド)</Name>
+      <Name>ノーマル(0x00とは異なるサウンド)</Name>
     </f_0x0C>
     <f_0x0D>
-      <Name>Slot Based</Name>
-      <Name>Slot Based(Piano sounds(Black key) on MP)</Name>
-      <Name>Slot Based</Name>
-      <Name>Metal</Name>
-      <Name>Slot Based(Xylophone sounds(Black key) on MP)</Name>
-      <Name>Slot Based(Glockenspiel sounds(Black key) on MP)</Name>
-      <Name>Smooth(Lunar Surface(?))[RR]</Name>
-      <Name>Smooth</Name>
+      <Name>スロットベース</Name>
+      <Name>スロットベース(ピアノの音(黒鍵)[MP])</Name>
+      <Name>スロットベース</Name>
+      <Name>金属</Name>
+      <Name>スロットベース(木琴の音(黒鍵)[MP])</Name>
+      <Name>スロットベース(グロッケンシュピールの音(黒鍵)[MP])</Name>
+      <Name>平滑(月面(?))[RR]</Name>
+      <Name>平滑</Name>
    </f_0x0D>
    <f_0x0E>
-      <Name>Unknown</Name>
-      <Name>Unknown</Name>
-      <Name>Unknown</Name>
-      <Name>Unknown</Name>
-      <Name>Unknown</Name>
-      <Name>Unknown</Name>
-      <Name>Unknown</Name>
-      <Name>Unknown</Name>
+      <Name>不明</Name>
+      <Name>不明</Name>
+      <Name>不明</Name>
+      <Name>不明</Name>
+      <Name>不明</Name>
+      <Name>不明</Name>
+      <Name>不明</Name>
+      <Name>不明</Name>
     </f_0x0E>
     <f_0x0F>
-      <Name>Unknown</Name>
-      <Name>Unknown</Name>
-      <Name>Unknown</Name>
-      <Name>Unknown</Name>
-      <Name>Unknown</Name>
-      <Name>Unknown</Name>
-      <Name>Unknown</Name>
-      <Name>Unknown</Name>
+      <Name>不明</Name>
+      <Name>不明</Name>
+      <Name>不明</Name>
+      <Name>不明</Name>
+      <Name>不明</Name>
+      <Name>不明</Name>
+      <Name>不明</Name>
+      <Name>不明</Name>
     </f_0x0F>
     <f_0x10>
-      <Name>Normal</Name>
-      <Name>Rock</Name>
-      <Name>Metal</Name>
-      <Name>Wood</Name>
-      <Name>Slot Based</Name>
-      <Name>Slot Based</Name>
-      <Name>Rubber</Name>
-      <Name>Music Wall</Name>
+      <Name>ノーマル</Name>
+      <Name>岩</Name>
+      <Name>金属</Name>
+      <Name>木</Name>
+      <Name>スロットベース</Name>
+      <Name>スロットベース</Name>
+      <Name>ラバー</Name>
+      <Name>ミュージックウォール</Name>
     </f_0x10>
     <f_0x11>
-      <Name>Rope</Name>
-      <Name>Grass</Name>
-      <Name>Grass</Name>
-      <Name>Balloon</Name>
-      <Name>Slot Based</Name>
-      <Name>Slot Based</Name>
-      <Name>Slot Based</Name>
-      <Name>Slot Based</Name>
+      <Name>ロープ</Name>
+      <Name>草</Name>
+      <Name>草</Name>
+      <Name>バルーン</Name>
+      <Name>スロットベース</Name>
+      <Name>スロットベース</Name>
+      <Name>スロットベース</Name>
+      <Name>スロットベース</Name>
     </f_0x11>
     <f_0x12>
-      <Name>Unknown</Name>
-      <Name>Unknown</Name>
-      <Name>Unknown</Name>
-      <Name>Unknown</Name>
-      <Name>Unknown</Name>
-      <Name>Unknown</Name>
-      <Name>Unknown</Name>
-      <Name>Unknown</Name>
+      <Name>不明</Name>
+      <Name>不明</Name>
+      <Name>不明</Name>
+      <Name>不明</Name>
+      <Name>不明</Name>
+      <Name>不明</Name>
+      <Name>不明</Name>
+      <Name>不明</Name>
     </f_0x12>
     <f_0x13>
-      <Name>Unknown</Name>
-      <Name>Unknown</Name>
-      <Name>Unknown</Name>
-      <Name>Unknown</Name>
-      <Name>Unknown</Name>
-      <Name>Unknown</Name>
-      <Name>Unknown</Name>
-      <Name>Unknown</Name>
+      <Name>不明</Name>
+      <Name>不明</Name>
+      <Name>不明</Name>
+      <Name>不明</Name>
+      <Name>不明</Name>
+      <Name>不明</Name>
+      <Name>不明</Name>
+      <Name>不明</Name>
     </f_0x13>
     <f_0x14>
-      <Name>Normal</Name>
-      <Name>Rock</Name>
-      <Name>Metal</Name>
-      <Name>Wood</Name>
-      <Name>Slot Based</Name>
-      <Name>Glass</Name>
-      <Name>Rubber</Name>
-      <Name>Music Wall(no effects)</Name>
+      <Name>ノーマル</Name>
+      <Name>岩</Name>
+      <Name>金属</Name>
+      <Name>木</Name>
+      <Name>スロットベース</Name>
+      <Name>草</Name>
+      <Name>ラバー</Name>
+      <Name>ミュージックウォール(エフェクトなし)</Name>
     </f_0x14>
     <f_0x15>
-      <Name>Normal</Name>
-      <Name>Rock</Name>
-      <Name>Metal</Name>
-      <Name>Wood</Name>
-      <Name>Slot Based</Name>
-      <Name>Glass</Name>
-      <Name>Rubber</Name>
-      <Name>Music Wall(no effects)</Name>
+      <Name>ノーマル</Name>
+      <Name>岩</Name>
+      <Name>金属</Name>
+      <Name>木</Name>
+      <Name>スロットベース</Name>
+      <Name>草</Name>
+      <Name>ラバー</Name>
+      <Name>ミュージックウォール(エフェクトなし)</Name>
     </f_0x15>
     <f_0x16>
-      <Name>Unknown</Name>
-      <Name>Unknown</Name>
-      <Name>Unknown</Name>
-      <Name>Unknown</Name>
-      <Name>Unknown</Name>
-      <Name>Unknown</Name>
-      <Name>Unknown</Name>
-      <Name>Unknown</Name>
+      <Name>不明</Name>
+      <Name>不明</Name>
+      <Name>不明</Name>
+      <Name>不明</Name>
+      <Name>不明</Name>
+      <Name>不明</Name>
+      <Name>不明</Name>
+      <Name>不明</Name>
     </f_0x16>
     <f_0x17>
-      <Name>Unknown</Name>
-      <Name>Unknown</Name>
-      <Name>Unknown</Name>
-      <Name>Unknown</Name>
-      <Name>Unknown</Name>
-      <Name>Unknown</Name>
-      <Name>Unknown</Name>
-      <Name>Unknown</Name>
+      <Name>不明</Name>
+      <Name>不明</Name>
+      <Name>不明</Name>
+      <Name>不明</Name>
+      <Name>不明</Name>
+      <Name>不明</Name>
+      <Name>不明</Name>
+      <Name>不明</Name>
     </f_0x17>
     <f_0x18>
-      <Name>Unknown</Name>
-      <Name>Unknown</Name>
-      <Name>Unknown</Name>
-      <Name>Unknown</Name>
-      <Name>Unknown</Name>
-      <Name>Unknown</Name>
-      <Name>Unknown</Name>
-      <Name>Unknown</Name>
+      <Name>不明</Name>
+      <Name>不明</Name>
+      <Name>不明</Name>
+      <Name>不明</Name>
+      <Name>不明</Name>
+      <Name>不明</Name>
+      <Name>不明</Name>
+      <Name>不明</Name>
     </f_0x18>
     <f_0x19>
-      <Name>Air Fall</Name>
-      <Name>Water</Name>
-      <Name>Lava</Name>
-      <Name>Lava(no splash)</Name>
-      <Name>Air Fall</Name>
-      <Name>Unknown</Name>
-      <Name>Air Fall</Name>
-      <Name>Air Fall</Name>
+      <Name>空中落下</Name>
+      <Name>水</Name>
+      <Name>溶岩</Name>
+      <Name>溶岩(スプラッシュなし)</Name>
+      <Name>空中落下</Name>
+      <Name>不明</Name>
+      <Name>空中落下</Name>
+      <Name>空中落下</Name>
     </f_0x19>
     <f_0x1A>
-      <Name>Unknown</Name>
-      <Name>Smoke/Fog</Name>
-      <Name>Tree leaves</Name>
-      <Name>Unknown</Name>
-      <Name>Unknown</Name>
-      <Name>Unknown</Name>
-      <Name>Unknown</Name>
-      <Name>Unknown</Name>
+      <Name>不明</Name>
+      <Name>煙/霧</Name>
+      <Name>木の葉</Name>
+      <Name>不明</Name>
+      <Name>不明</Name>
+      <Name>不明</Name>
+      <Name>不明</Name>
+      <Name>不明</Name>
     </f_0x1A>
     <f_0x1B>
-      <Name>Sound by the slot[rWP]</Name>
+      <Name>スロットが決まる音[rWP]</Name>
       <Name>?[rWP]</Name>
-      <Name>Unknown</Name>
-      <Name>Unknown</Name>
-      <Name>Pipe 1</Name>
-      <Name>Pipe 2</Name>
-      <Name>Unknown</Name>
-      <Name>Unknown</Name>
+      <Name>不明</Name>
+      <Name>不明</Name>
+      <Name>土管 1</Name>
+      <Name>土管 2</Name>
+      <Name>不明</Name>
+      <Name>不明</Name>
     </f_0x1B>
     <f_0x1C>
-      <Name>Unknown</Name>
-      <Name>Unknown</Name>
+      <Name>不明</Name>
+      <Name>不明</Name>
       <Name>?[rMT]</Name>
-      <Name>Unknown</Name>
-      <Name>Unknown</Name>
-      <Name>Unknown</Name>
-      <Name>Unknown</Name>
-      <Name>Unknown</Name>
+      <Name>不明</Name>
+      <Name>不明</Name>
+      <Name>不明</Name>
+      <Name>不明</Name>
+      <Name>不明</Name>
     </f_0x1C>
     <f_0x1D>
-      <Name>Air Fall</Name>
-      <Name>Water</Name>
-      <Name>Lava</Name>
-      <Name>Lava(no splash)</Name>
-      <Name>Air Fall</Name>
-      <Name>Unknown</Name>
-      <Name>Air Fall</Name>
-      <Name>Air Fall</Name>
+      <Name>空中落下</Name>
+      <Name>水</Name>
+      <Name>溶岩</Name>
+      <Name>溶岩(スプラッシュなし)</Name>
+      <Name>空中落下</Name>
+      <Name>不明</Name>
+      <Name>空中落下</Name>
+      <Name>空中落下</Name>
     </f_0x1D>
     <f_0x1E>
-      <Name>Unknown</Name>
-      <Name>Unknown</Name>
-      <Name>Unknown</Name>
-      <Name>Unknown</Name>
-      <Name>Unknown</Name>
-      <Name>Unknown</Name>
-      <Name>Unknown</Name>
-      <Name>Unknown</Name>
+      <Name>不明</Name>
+      <Name>不明</Name>
+      <Name>不明</Name>
+      <Name>不明</Name>
+      <Name>不明</Name>
+      <Name>不明</Name>
+      <Name>不明</Name>
+      <Name>不明</Name>
     </f_0x1E>
     <f_0x1F>
-      <Name>Unknown(?)</Name>
-      <Name>Flowerbed</Name>
-      <Name>Glider Activator(?)</Name>
-      <Name>Unknown</Name>
-      <Name>Unknown</Name>
-      <Name>Unknown</Name>
+      <Name>不明(?)</Name>
+      <Name>花壇</Name>
+      <Name>グライダーアクティベーター(?)</Name>
+      <Name>不明</Name>
+      <Name>不明</Name>
+      <Name>不明</Name>
       <Name>?[RR]</Name>
-      <Name>Unknown</Name>
+      <Name>不明</Name>
     </f_0x1F>
   </Sub_0x2>
   <Shadow_0x3>
-    <num>0(None)</num>
+    <num>0(なし)</num>
     <num>1</num>
     <num>2</num>
     <num>3</num>
@@ -374,21 +374,21 @@
     <num>F</num>
   </Shadow_0x3>
   <SP_0x4>
-    <num>0 - Nothing</num>
-    <num>1 - Trickable</num>
-    <num>2 - Pushes you back</num>
-    <num>3 - Pushes you back and Trickable</num>
-    <num>4 - Sticky</num>
-    <num>5 - Sticky and Trickable</num>
-    <num>6 - Nothing(Cannon Activator if used with 0x09 or 0x1C?)</num>
-    <num>7 - Trickable(Cannon Activator if used with 0x09 or 0x1C?)</num>
-    <num>8 - Nothing(Cannon Activator if used with 0x09 or 0x1C?)</num>
-    <num>9 - Trickable(Cannon Activator if used with 0x09 or 0x1C?)</num>
-    <num>A - Nothing(Cannon Activator if used with 0x09 or 0x1C?)</num>
-    <num>B - Trickable(Cannon Activator if used with 0x09 or 0x1C?)</num>
-    <num>C - Nothing(Cannon Activator if used with 0x09 or 0x1C?)</num>
-    <num>D - Trickable(Cannon Activator if used with 0x09 or 0x1C?)</num>
-    <num>E - Nothing(Cannon Activator if used with 0x09 or 0x1C?)</num>
-    <num>F - Trickable(Cannon Activator if used with 0x09 or 0x1C?)</num>
+    <num>0 - 何もしない</num>
+    <num>1 - ジャンプアクション</num>
+    <num>2 - プレイヤーを押し戻します</num>
+    <num>3 - プレイヤーを押し戻します + ジャンプアクション</num>
+    <num>4 - 粘着性</num>
+    <num>5 - 粘着性 + ジャンプアクション</num>
+    <num>6 - 何もしない(大砲アクティベーター?[もし0x09または0x1Cと一緒に使用する場合])</num>
+    <num>7 - ジャンプアクション(大砲アクティベーター?[もし0x09または0x1Cと一緒に使用する場合])</num>
+    <num>8 - 何もしない(大砲アクティベーター?[もし0x09または0x1Cと一緒に使用する場合])</num>
+    <num>9 - ジャンプアクション(大砲アクティベーター?[もし0x09または0x1Cと一緒に使用する場合])</num>
+    <num>A - 何もしない(大砲アクティベーター?[もし0x09または0x1Cと一緒に使用する場合])</num>
+    <num>B - ジャンプアクション(大砲アクティベーター?[もし0x09または0x1Cと一緒に使用する場合])</num>
+    <num>C - 何もしない(大砲アクティベーター?[もし0x09または0x1Cと一緒に使用する場合])</num>
+    <num>D - ジャンプアクション(大砲アクティベーター?[もし0x09または0x1Cと一緒に使用する場合])</num>
+    <num>E - 何もしない(大砲アクティベーター?[もし0x09または0x1Cと一緒に使用する場合])</num>
+    <num>F - ジャンプアクション(大砲アクティベーター?[もし0x09または0x1Cと一緒に使用する場合])</num>
   </SP_0x4>
 </KCLFlags>
