@@ -91,38 +91,38 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(60, 18);
+            this.label1.Location = new System.Drawing.Point(65, 18);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(37, 12);
+            this.label1.Size = new System.Drawing.Size(36, 12);
             this.label1.TabIndex = 4;
-            this.label1.Text = "タイプ：";
+            this.label1.Text = "Type：";
             // 
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(14, 58);
+            this.label2.Location = new System.Drawing.Point(26, 58);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(83, 12);
+            this.label2.Size = new System.Drawing.Size(75, 12);
             this.label2.TabIndex = 5;
-            this.label2.Text = "材質(エフェクト)：";
+            this.label2.Text = "Basic Effect：";
             // 
             // label3
             // 
             this.label3.AutoSize = true;
             this.label3.Location = new System.Drawing.Point(50, 99);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(47, 12);
+            this.label3.Size = new System.Drawing.Size(50, 12);
             this.label3.TabIndex = 6;
-            this.label3.Text = "シャドウ：";
+            this.label3.Text = "Shadow：";
             // 
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(27, 141);
+            this.label4.Location = new System.Drawing.Point(6, 141);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(70, 12);
+            this.label4.Size = new System.Drawing.Size(95, 12);
             this.label4.TabIndex = 7;
-            this.label4.Text = "特殊なフラグ：";
+            this.label4.Text = "Special Property：";
             // 
             // textBox1
             // 
@@ -220,6 +220,7 @@
             // 
             // textBox3
             // 
+            this.textBox3.AllowDrop = true;
             this.textBox3.Location = new System.Drawing.Point(139, 16);
             this.textBox3.Name = "textBox3";
             this.textBox3.Size = new System.Drawing.Size(713, 19);

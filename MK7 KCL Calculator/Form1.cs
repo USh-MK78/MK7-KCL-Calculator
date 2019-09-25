@@ -35,19 +35,19 @@ namespace MK7_KCL_Calculator
         }
         private void textBox3_DragDrop(object sender, DragEventArgs e)
         {
-            string[] Path = (string[])e.Data.GetData(DataFormats.FileDrop, false);
-            if (Path.Length <= 0)
+            string[] filename = (string[])e.Data.GetData(DataFormats.FileDrop, false);
+            if (filename.Length <= 0)
             {
                 return;
             }
 
-            TextBox PathText = sender as TextBox;
-            if (PathText == null)
+            TextBox txtTarget = sender as TextBox;
+            if (txtTarget == null)
             {
                 return;
             }
 
-            PathText.Text = Path[0];
+            txtTarget.Text = filename[0];
         }
 
         private void Form1_Load(object sender, EventArgs e)
@@ -718,7 +718,7 @@ namespace MK7_KCL_Calculator
             }
             catch(System.ArgumentOutOfRangeException)
             {
-                MessageBox.Show("削除する要素が選択されていません");
+                MessageBox.Show("The element to be deleted in not selected.");
             }
         }
 
@@ -743,7 +743,7 @@ namespace MK7_KCL_Calculator
             //パスの保存
             if (textBox3.Text.Length == 0)
             {
-                MessageBox.Show("パスを入力してください");
+                MessageBox.Show("Please enter the Path.");
                 //パスが空のためスレッドの実行を停止
                 t1.Abort();
             }
