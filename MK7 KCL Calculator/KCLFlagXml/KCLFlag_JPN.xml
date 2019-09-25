@@ -1,9 +1,9 @@
 ﻿<KCLFlags>
   <Main_0x1>
-    <Name>Road 1</Name>
-    <Name>Road 2</Name>
-    <Name>Road 3</Name>
-    <Name>Road 4</Name>
+    <Name>道 1</Name>
+    <Name>道 2</Name>
+    <Name>道 3</Name>
+    <Name>道 4</Name>
     <Name>Slippery Road 1</Name>
     <Name>Off-road</Name>
     <Name>Heavy Off-road</Name>
@@ -13,8 +13,8 @@
     <Name>Does nothing 1</Name>
     <Name>Solid Fall</Name>
     <Name>Moving Terrain</Name>
-    <Name>Road 5</Name>
-    <Name>Unknown [!]Crashes the game[!]</Name>
+    <Name>道 5</Name>
+    <Name>不明 [!]Crashes the game[!]</Name>
     <Name>Does nothing 2</Name>
     <Name>Wall 1</Name>
     <Name>Wall 2</Name>
